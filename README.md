@@ -1,5 +1,5 @@
 - Hi, I’m Shravan 
-- I'm a sophomore at Cal Poly SLO majoring in Computer Science
+- I'm a junior at Cal Poly SLO majoring in Computer Science
 - Reach me @shravansheth@gmail.com
 
 <!---
